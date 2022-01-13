@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Access to /wiki"
+AuthUserFile /kunden/homepages/30/d32787559/htpasswd
+Require user vdidwiki
